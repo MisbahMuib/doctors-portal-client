@@ -7,20 +7,17 @@ A Single page web app with dashboard  where people can pick the date and time an
 ### Features
 * Online appointment making
 * Patients Database
-
 * Review appointments
 * Prescribe medicine for each patient
 
-
-### Front-end Technology : 
+### Front-end Technology  
 * React.js
 * Bootstrap4
 * CSS3
 
-### Back-end Technology :
+### Back-end Technology 
 * Node.js
 * Express.js
 * MongoDB
-
 
 [Server Repository](https://github.com/solaimanshadin/doctors-portal-backend)
