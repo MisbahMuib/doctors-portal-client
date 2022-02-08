@@ -12,12 +12,12 @@ A Single page web app with dashboard  where people can pick the date and time an
 * Prescribe medicine for each patient
 
 
-### Front-end Thechnology : 
+### Front-end Technology : 
 * React.js
 * Bootstrap4
 * CSS3
 
-### Back-end Technology
+### Back-end Technology :
 * Node.js
 * Express.js
 * MongoDB
